@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: DATALEARN
 image: /img/photo-1580584126903-c17d41830450.jpeg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: DATALEARN
+subheading: The home of data learning
 mainpitch:
   title: Why Kaldi
   description: >
